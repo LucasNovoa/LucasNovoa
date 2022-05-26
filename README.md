@@ -8,9 +8,13 @@ Mi desarrollo en el ámbito artístico/creativo como compositor, músico sesioni
 Tech Skills:
 
 JavaScript. - React. - Redux
+
 HTML - CSS - SASS
+
 NodeJs - Express - Sequelize - PostgreSQL - SQL - JWT - Passport - Auth0
+
 Docker
+
 SCRUM
 
 ¿Queres saber más sobre mí? Contáctame!
