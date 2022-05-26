@@ -19,7 +19,7 @@ Docker
 
 SCRUM
 
-### - ❓ ¿Queres saber más sobre mí? Contáctame!
+### ¿Queres saber más sobre mí? Contáctame!
 
 LinkedIn: https://www.linkedin.com/in/lucas-novoa/
 
